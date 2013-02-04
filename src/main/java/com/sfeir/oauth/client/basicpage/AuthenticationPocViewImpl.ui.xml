@@ -1,0 +1,11 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+
+    <ui:style>
+    </ui:style>
+
+    <g:HTMLPanel>
+        <h1>Back-office secured page</h1>
+        <p>You are navigating in authenticated mode</p>
+    </g:HTMLPanel>
+</ui:UiBinder>
